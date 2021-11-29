@@ -27,13 +27,6 @@ comments: false
 * 공학교육혁신센터 IoT SMART Design Camp (2021.07.22~2021.08.20)
 * 서울과학기술대학교 창업동아리 Nowhere pcb 디자인 파트 (2021.07.09~2022.01.31)
 
-## 사진
-{% capture images %}
-https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/KakaoTalk_20211129_135146489.jpg
-https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/KakaoTalk_20211129_135146489_01.jpg
-{% endcapture %}
-{% include gallery images=images caption=" " cols=2 %}
-
 
 ## 키우는 고양이
 {% capture images %}
