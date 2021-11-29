@@ -10,8 +10,8 @@ comments: false
 
 # 코코!
 {% capture images %}
-https://raw.githubusercontent.com/jeremy350/jeremy350.github.io/master/image/asd.jpg
-https://raw.githubusercontent.com/jeremy350/jeremy350.github.io/master/image/asd1.jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/asd.jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/asd1.jpg
 {% endcapture %}
 {% include gallery images=images caption=" " cols=2 %}
 
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/jeremy350/jeremy350.github.io/master/image/asd
 
 # 코코!
 {% capture images %}
-https://raw.githubusercontent.com/jeremy350/jeremy350.github.io/master/image/t%20(1).jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/t%20(1).jpg
 {% endcapture %}
 {% include gallery images=images caption=" " cols=1 %}
 
