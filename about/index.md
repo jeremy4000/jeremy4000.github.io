@@ -37,8 +37,8 @@ https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/Kak
 
 ## 키우는 고양이
 {% capture images %}
-https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/master/IMG_0294.jpg
-https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/master/IMG_0582.JPG
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/KakaoTalk_20211129_135146489.jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/KakaoTalk_20211129_135146489_01.jpg
 {% endcapture %}
 {% include gallery images=images caption=" " cols=2 %}
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/master/IMG_058
 {% capture images %}
 https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/IMG_2834.jpg
 {% endcapture %}
-{% include gallery images=images caption=" " cols=2 %}
+{% include gallery images=images caption=" " cols=1 %}
 
 
 
