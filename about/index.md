@@ -8,14 +8,18 @@ comments: false
     
 <center><b>맹준엽</b> 이란, 사람에 대해.</center>
 
-## 주의!
-* 이 홈페이지의 모든것(코딩,그림,아이디어,문서)은 모두 본인이 혼자서 제작한것입니다
 
 ## 학력
-* 서울과학기술대학교 재학중
-* 본전공 : 건설시스템공학과
-* 복수전공 : 전기정보공학과 
-
+* 순천 송산초등학교 1~3
+* 평택 소사벌초등학교 3~4
+* 수원 팔달초등학교 4~5
+* 동탄 예당초등학교 5~6
+* 동탄 석우중학교 1~2
+* hongkong international middle school grade 7~8
+* 동탄 동탄고등학교 1
+* 서울 반포고등학교 2~3
+* 서울과학기술대학교 전기정보공학과 재학중
+ 
 ## 경험
 * 서울과학기술대학교 3D모델링 메이커교육 (2020.08.26~2020.12.31)
 * 서울과학기술대학교 3D프린터 기초교육 장비 워크샵4기 (2021.05.20~2021.07.28)
@@ -25,8 +29,8 @@ comments: false
 
 ## 사진
 {% capture images %}
-https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/master/KakaoTalk_20210814_145932453.jpg
-https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/master/KakaoTalk_20210814_145938453.jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/KakaoTalk_20211129_135146489.jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/KakaoTalk_20211129_135146489_01.jpg
 {% endcapture %}
 {% include gallery images=images caption=" " cols=2 %}
 
@@ -40,7 +44,7 @@ https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/master/IMG_058
 
 ## 평소 책상위
 {% capture images %}
-https://raw.githubusercontent.com/jeremy350/jeremy350.github.io/master/image/IMG_2834.jpg
+https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/IMG_2834.jpg
 {% endcapture %}
 {% include gallery images=images caption=" " cols=2 %}
 
@@ -50,3 +54,7 @@ https://raw.githubusercontent.com/jeremy350/jeremy350.github.io/master/image/IMG
 * Tel: 01085931187
 * Email: jeremy400@naver.com
 * Kakaotalk: 400star
+
+
+## 첫사랑
+* 2021-11-27
