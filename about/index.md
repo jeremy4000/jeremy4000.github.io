@@ -45,10 +45,9 @@ https://raw.githubusercontent.com/jeremy4000/jeremy4000.github.io/main/image/IMG
 
 ## 연락처
 * Tel: 01085931187
+* (휴대폰은 아이폰 11)
 * Email: jeremy400@naver.com
 * Kakaotalk: 400star
 
 
-##
-* 2021-11-27
-* 첫사랑
+
