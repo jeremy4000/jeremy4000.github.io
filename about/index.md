@@ -15,9 +15,10 @@ comments: false
 * 수원 팔달초등학교 4~5
 * 동탄 예당초등학교 5~6
 * 동탄 석우중학교 1~2
-* hongkong international middle school grade 7~8
+* hongkong international middle school grade 7
 * 동탄 동탄고등학교 1
-* 서울 반포고등학교 2~3
+*  hongkong international middle school grade 9
+* 서울 반포고등학교 3
 * 서울과학기술대학교 재학중
  
 ## 경험
